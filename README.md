@@ -9,8 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ---
-
-
 ---
 
 **Programming**
@@ -24,3 +22,10 @@ I design social media images that are used on social media to advertise a compan
 
 **drawing**
 Use drawing to illustrate ideas before implementing them.
+
+***my channel***
+
+```
+https://www.youtube.com/channel/UCWA9W1KqWXBAU_A8v1y5XMg/
+```
+
