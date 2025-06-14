@@ -24,14 +24,3 @@ I design social media images that are used on social media to advertise a compan
 
 **drawing**
 Use drawing to illustrate ideas before implementing them.
-
-</div>
-
-<div align="center">
-
-| Programming | I am a junior programmer specialized in Python, machine learning, artificial intelligence, and website programming with html, css, js, |
-| UI, UX design | I am a user interface designer (UI, UX) who uses design skills with website programming to harmonize skills. |
-| Social media design | I design social media images that are used on social media to advertise a company, project or anything because they attract people with their bright, harmonious colors and magical shapes. |
-| drawing | Use drawing to illustrate ideas before implementing them. |
-
-</div>
