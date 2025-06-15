@@ -31,3 +31,9 @@ Use drawing to illustrate ideas before implementing them.
 https://www.youtube.com/channel/UCWA9W1KqWXBAU_A8v1y5XMg/
 ```
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArchiDog1998/ArchiDog1998/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArchiDog1998/ArchiDog1998/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArchiDog1998/ArchiDog1998/output/github-contribution-grid-snake.svg">
+</picture>
+
