@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
+## about me
 
 **Programming**
 I am a junior programmer specialized in Python, machine learning, artificial intelligence, and website programming with html, css, js,
