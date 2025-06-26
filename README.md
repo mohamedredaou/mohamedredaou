@@ -3,17 +3,11 @@
 - 🌱 I'm currently learning Python programming
 - 🎉 You can see my work and follow me on social media
 
-<!---
-mohamedredaou/mohamedredaou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ---
-
-
+> welcome to my profile in github
 ---
 ## about me
-
 **Programming**
 I am a junior programmer specialized in Python, machine learning, artificial intelligence, and website programming with html, css, js,
 
