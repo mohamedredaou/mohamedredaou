@@ -1,5 +1,5 @@
-- 👋 Hi, I'm @mohamedredaou
-- 👀 I'm interested in programming and design
+- 👋 hi! I'm mohamed reda
+- 👀 I'm a programmer and designer
 - 🌱 I'm currently learning Python programming
 - 🎉 You can see my work and follow me on social media
 
