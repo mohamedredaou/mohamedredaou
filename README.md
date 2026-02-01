@@ -63,7 +63,7 @@ Welcome to my profile! I am a 13-year-old <b>Front-end Programmer</b>, <b>Game D
   <a href="https://x.com/OuyoussefR90480" target="_blank">
     <img alt="X (Twitter)" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/mohamedredaou?tab=overview&from=2025-12-01&to=2025-12-31" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/channel/UCWA9W1KqWXBAU_A8v1y5XMg" target="_blank">
