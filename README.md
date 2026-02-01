@@ -44,7 +44,6 @@ Welcome to my profile! I am a 13-year-old <b>Front-end Programmer</b>, <b>Game D
   <img alt="CSS" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
   <img alt="AssemblyScript" src="https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff" />
   <img alt="Google" src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white" />
-  <img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff" />
   <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
   <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" />
   <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
