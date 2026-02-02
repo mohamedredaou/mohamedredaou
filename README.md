@@ -50,7 +50,7 @@ Welcome to my profile! I am a 13-year-old <b>Front-end Programmer</b>, <b>Game D
   <img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" />
   <img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" />
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-  <img href="https://google.com" alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" />
+  <img link="https://google.com" alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" />
 </p>
 
 ### 🚀 Technical Interests
