@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Muhammed Reda Ouyoussef</h1>
 
 <p>
-Welcome to my profile! I am a 13-year-old <b>Front-end Programmer</b>, <b>Game Developer</b>, <b>OS Developer</b>, and <b>Designer</b>. I love building complex systems and creative interfaces.
+Welcome to my profile! I am a 13 year old <b>Front-end Programmer</b>, <b>Game Developer</b>, <b>OS Developer</b>, and <b>Designer</b>. I love building complex systems and creative interfaces.
 </p>
 
 ### 🛠 Things I code with
