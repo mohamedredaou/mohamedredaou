@@ -2,7 +2,7 @@
 
 ---
 
-### 💻 Programming Language
+### **Programming Language**
 
 <p>
   <img alt="AssemblyScript" src="https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff" />
@@ -15,7 +15,7 @@
   <img alt="QML" src="https://img.shields.io/badge/QML-41CD52?logo=qt&logoColor=fff" />
 </p>
 
-### FrameWork
+### **FrameWork**
 
 <p>
   <img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff" />
@@ -28,7 +28,7 @@
   <img alt="" src="" />
 </p>
 
-### 💻 Code Editor
+### **Code Editor**
 
 <p>
   <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white" />
