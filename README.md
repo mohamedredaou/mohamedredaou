@@ -38,3 +38,7 @@
 
 ---
 
+### 🚀 Currently Learning
+- 🧠 AI & Machine Learning: Deep Learning, NLP, and Neural Architectures.
+- 💻 Software engineering: React and React native, SaaS, Qt.
+- 👩‍💻 BackEnd & DataBase: API, Flask, Python, SQL, JSON.
