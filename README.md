@@ -2,7 +2,7 @@
 
 ---
 
-### Language I use
+### 💻 Programming Language
 
 <p>
   <img alt="AssemblyScript" src="https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff" />
@@ -18,29 +18,14 @@
 ### FrameWork
 
 <p>
+  <img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
+  <img alt="Qt" src="https://img.shields.io/badge/Qt-2CDE85?logo=Qt&logoColor=fff" />
+  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
   <img alt="" src="" />
   <img alt="" src="" />
-  <img alt="" src="" />
-  <img alt="" src="" />
-  <img alt="" src="" />
-  <img alt="" src="" />
-  <img alt="" src="" />
-  <img alt="" src="" />
-</p>
-
-### 🤖 Artificial Intelligence
-
-<p>
-  <img alt="ChatGPT" src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" />
-  <img alt="Deepseek" src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff" />
-  <img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" />
-  <img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff" />
-</p>
-
-### 🌐 Browser
-
-<p>
-  <img alt="Zen Browser" src="https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff" />
 </p>
 
 ### 💻 Code Editor
@@ -49,45 +34,6 @@
   <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white" />
   <img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white" />
 </p>
-
-### 📊 Data Science
-
-<p>
-  <img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff" />
-  <img alt="Matplotlib" src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" />
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" />
-</p>
-
-
-### 🎨 Design
-
-<p>
-  <img alt="Affinity Studio" src="https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?logo=affinitystudio&logoColor=black" />
-  <img alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-</p>
-
-### 📄 Documentation
-
-<p>
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" />
-  <img alt="ReadMe" src="https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff" />
-</p>
-
-### 🎓 Education
-
-<p>
-  <img alt="" src="" />
-  <img alt="" src="" />
-  <img alt="" src="" />
-  <img alt="" src="" />
-  <img alt="" src="" />
-  <img alt="" src="" />
-  <img alt="" src="" />
-  <img alt="" src="" />
-</p>
-
 
 
 ---
