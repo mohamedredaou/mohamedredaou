@@ -23,30 +23,7 @@ Building AI products that solve real-world problems.
 
 ---
 
-# 🚀 Current Project
-
-### AI Resume Builder
-
-A production-ready AI SaaS that transforms raw information into professional ATS-optimized resumes.
-
-**Tech Stack**
-
-`FastAPI` • `OpenAI` • `React` • `Supabase`
-
-**Status**
-
-```text
-███████████░░░░░░░ 65%
-```
-
----
-
 # 🛠 Tech Stack
-
-<table>
-<tr>
-
-<td valign="top" width="50%">
 
 ### 💻 Languages
 
@@ -75,33 +52,6 @@ A production-ready AI SaaS that transforms raw information into professional ATS
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,npm,vercel,vim,vscode,windows,powershell" />
 </p>
-
-### 🎨 Design
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma,notion,obsidian" />
-</p>
-
-### ☁️ Currently Learning
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=langchain,tensorflow,pytorch" />
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ⭐ Featured Projects
-
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🧠 AI Resume Builder | Generate ATS-ready resumes using AI | FastAPI • OpenAI |
-| 📈 Habitax | Modern habit tracking SaaS | React • Supabase |
-| ⚡ AI API Boilerplate | Production-ready FastAPI starter | Python |
 
 ---
 
