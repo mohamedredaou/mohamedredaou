@@ -94,16 +94,6 @@ Building AI products that solve real-world problems.
 
 ---
 
-# 🎯 2026 Roadmap
-
-- ✅ Build profitable AI SaaS
-- 🔄 Launch AI Resume Builder
-- ⏳ Build AI Agent Platform
-- ⏳ Reach first 100 paying customers
-- ⏳ Contribute to Open Source
-
----
-
 # 💡 Philosophy
 
 > Stop learning, start building.
