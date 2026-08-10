@@ -96,7 +96,7 @@ Building AI products that solve real-world problems.
 
 # 💡 Philosophy
 
-> Stop learning, start building.
+> learning by building.
 
 ---
 
