@@ -94,6 +94,13 @@ Building AI products that solve real-world problems.
 
 ---
 
+# 📊 GitHub Stats
+![](https://github-readme-stats.shion.dev/api?username=mohamedredaou&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=mohamedredaou&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohamedredaou&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
 # 💡 Philosophy
 
 > learning by building.
