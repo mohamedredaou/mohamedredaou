@@ -73,13 +73,13 @@ Building AI products that solve real-world problems.
 ### ⚛️ Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+	<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
 ### 🚀 Backend & AI
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,supabase,opencv,matlab" />
+	<img src="https://skillicons.dev/icons?i=fastapi,flask,supabase,opencv,matlab" />
 </p>
 
 </td>
@@ -89,15 +89,26 @@ Building AI products that solve real-world problems.
 ### 🛠 Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,npm,vercel,vim,vscode,windows,powershell" />
+	<img src="https://skillicons.dev/icons?i=git,github,docker,npm,vercel,vim,vscode,windows,powershell" />
 </p>
 
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=mohamedredaou&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mohamedredaou&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohamedredaou&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=mohamedredaou&theme=transparent&hide_border=true&include_all_commits=true&count_private=true">
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=mohamedredaou&theme=transparent&hide_border=true">
+
+<br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohamedredaou&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+
+</p>
 
 ---
 
@@ -112,19 +123,19 @@ Building AI products that solve real-world problems.
 <p align="center">
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+	<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+	<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://discord.com/users/YOUR_ID">
-<img src="https://skillicons.dev/icons?i=discord"/>
+	<img src="https://skillicons.dev/icons?i=discord"/>
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+	<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 </p>
@@ -132,7 +143,6 @@ Building AI products that solve real-world problems.
 ---
 
 <p align="center">
-
-![](https://komarev.com/ghpvc/?username=mohamedredaou&style=for-the-badge)
-
+  <img src="https://komarev.com/ghpvc/?username=mohamedredaou&style=for-the-badge">
+  <br>
 </p>
