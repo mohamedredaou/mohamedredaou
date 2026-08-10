@@ -23,7 +23,7 @@ Building AI products that solve real-world problems.
 
 ---
 
-# ⚡ work with
+# ⚡ Work with
 
 <table>
 	<tr>
