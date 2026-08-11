@@ -14,13 +14,13 @@ Building AI products that solve real-world problems.
 
 # 👨‍💻 About Me
 
-- 🇲🇦 _**AI Engineer from Morocco**_
-- 🤖 _**Building AI-powered SaaS applications**_
-- 🐍 _**Specialized in Python & AI**_
-- 💡 _**Building my own AI Startup**_
-- ⚡ _**Passionate about scalable backend systems**_
-- 🎨 _**Enjoy creating clean and modern UI/UX**_
-- 🚀 _**Always learning and building**_
+- 🇲🇦 **AI Engineer from Morocco**
+- 🤖 **Building AI-powered SaaS applications**
+- 🐍 **Specialized in Python & AI**
+- 💡 **Building my own AI Startup**
+- ⚡ **Passionate about scalable backend systems**
+- 🎨 **Enjoy creating clean and modern UI/UX**
+- 🚀 **Always learning and building**
 
 ---
 
@@ -115,7 +115,7 @@ Building AI products that solve real-world problems.
 
 # 💡 Philosophy
 
-> learning by building.
+> _learning by building._
 
 ---
 
