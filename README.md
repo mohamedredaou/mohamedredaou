@@ -1,97 +1,237 @@
-<h1 align="center">
-  👋 Hey! I'm Muhammed Reda
-</h1>
+<h1 align="center">👋 Hey! I'm Muhammed Reda</h1>
 
 <p align="center">
-  <strong>AI Engineer • Software Engineer • AI SaaS Builder</strong>
+  <strong>AI Engineer • Software Engineer • UI/UX Designer • Marketer</strong>
 </p>
 
 <p align="center">
-Building AI products that solve real-world problems.
+  Building useful digital products through engineering, design, and growth.
+</p>
+
+<p align="center">
+  <a href="https://github.com/mohamedredaou">
+    <img src="https://komarev.com/ghpvc/?username=mohamedredaou&style=for-the-badge" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🇲🇦 **AI Engineer from Morocco**
-- 🤖 **Building AI-powered SaaS applications**
-- 🐍 **Specialized in Python & AI**
-- 💡 **Building my own AI Startup**
-- ⚡ **Passionate about scalable backend systems**
-- 🎨 **Enjoy creating clean and modern UI/UX**
-- 🚀 **Always learning and building**
+I'm a developer and digital product builder from Morocco interested in the intersection of **technology, design, and business**.
+
+My work is mainly focused on four areas:
+
+* 🎨 **UI/UX Design** — designing clean, modern, and intuitive interfaces
+* 📈 **Marketing** — understanding products, positioning, content, audience, and growth
+* 🤖 **AI Engineering** — building AI-powered systems and integrating modern AI technologies
+* 💻 **Software Engineering** — developing reliable, scalable, and maintainable applications
+
+I also work with:
+
+* 🚀 AI SaaS & product development
+* 🖌️ Graphic Design
+* 🎬 Video Editing
+* 🌍 French • English • Arabic
+
+I enjoy taking an idea from **concept → design → development → launch → improvement**.
 
 ---
 
-# ⚡ Work with
+# 🎯 Core Skills
 
 <table>
-	<tr>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytorch.png" alt="PyTorch" title="PyTorch"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/qt.png" alt="Qt" title="Qt"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></td>
-	</tr>
-	<tr>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" alt="Supabase" title="Supabase"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" alt="Vim" title="Vim"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ant_design.png" alt="Ant Design" title="Ant Design"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="ShadCn UI" title="ShadCn UI"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_ui.png" alt="Next UI" title="Next UI"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" alt="LangChain" title="LangChain"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></td>
-		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="npm" title="npm"/></td>
-	</tr>
-</table>
+<tr>
+<td width="25%" align="center">
 
---- 
+### 🎨 UI/UX
 
-# 🛠 Tech Stack
-
-### 💻 Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,bun" />
-</p>
-
-### ⚛️ Frontend
-
-<p align="center">
-	<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
-
-### 🚀 Backend & AI
-
-<p align="center">
-	<img src="https://skillicons.dev/icons?i=fastapi,flask,supabase,opencv,matlab" />
-</p>
+Design systems
+User interfaces
+User experience
+Wireframing
+Prototyping
+Responsive design
 
 </td>
 
-<td valign="top" width="50%">
+<td width="25%" align="center">
 
-### 🛠 Development
+### 📈 Marketing
+
+Product positioning
+Content strategy
+Audience research
+Growth concepts
+Brand communication
+Product marketing
+
+</td>
+
+<td width="25%" align="center">
+
+### 🤖 AI Engineering
+
+LLM applications
+AI integration
+Machine Learning
+Computer Vision
+AI workflows
+AI APIs
+
+</td>
+
+<td width="25%" align="center">
+
+### 💻 Software Engineering
+
+Backend development
+Frontend development
+APIs
+Databases
+System architecture
+DevOps
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧩 Additional Skills
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=git,github,docker,npm,vercel,vim,vscode,windows,powershell" />
+
+<img src="https://img.shields.io/badge/AI%20SaaS-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Graphic%20Design-111827?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Video%20Editing-111827?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
+<img src="https://img.shields.io/badge/French-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/English-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Arabic-111827?style=for-the-badge"/>
+
 </p>
+
+---
+
+# ⚡ Technologies
+
+### 🐍 Languages & Runtime
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,bun,bash" />
+</p>
+
+### 🎨 Frontend & UI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+### 🚀 Backend & Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,supabase" />
+</p>
+
+### 🛠 Development & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,npm,vercel,vim,vscode,powershell" />
+</p>
+
+### 🎨 Design & Creative Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,blender" />
+</p>
+
+---
+
+# 🧠 What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Product & Design
+
+* UI design
+* UX thinking
+* Design systems
+* Product interfaces
+* Visual design
+* Branding concepts
+* User-centered product decisions
+
+</td>
+
+<td width="50%" valign="top">
+
+### Engineering
+
+* AI-powered applications
+* Full-stack development
+* Backend architecture
+* REST APIs
+* Database design
+* Automation
+* Scalable software systems
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Marketing & Growth
+
+* Product positioning
+* Audience understanding
+* Content ideas
+* Product presentation
+* Growth experiments
+* Brand communication
+
+</td>
+
+<td width="50%" valign="top">
+
+### Creative
+
+* Graphic design
+* Video editing
+* Visual content
+* Product presentation
+* Digital media
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Building
+
+I like building projects where **engineering, design, and business meet**.
+
+My approach is simple:
+
+> **Understand the problem → Design the experience → Build the system → Launch → Learn → Improve**
+
+Rather than focusing on technology alone, I care about whether a product is:
+
+* Useful
+* Easy to understand
+* Well designed
+* Technically solid
+* Easy to scale
+* Able to reach the right audience
 
 ---
 
@@ -99,15 +239,15 @@ Building AI products that solve real-world problems.
 
 <p align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=mohamedredaou&theme=transparent&hide_border=true&include_all_commits=true&count_private=true">
+<img src="https://github-readme-stats.shion.dev/api?username=mohamedredaou&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=mohamedredaou&theme=transparent&hide_border=true">
+<img src="https://streak-stats.demolab.com/?user=mohamedredaou&theme=transparent&hide_border=true" />
 
 <br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohamedredaou&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohamedredaou&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
 </p>
 
@@ -115,7 +255,9 @@ Building AI products that solve real-world problems.
 
 # 💡 Philosophy
 
-> _learning by building._
+> **Build. Design. Learn. Improve.**
+
+I believe the strongest products come from combining **good engineering, good design, and a clear understanding of people and markets.**
 
 ---
 
@@ -124,19 +266,19 @@ Building AI products that solve real-world problems.
 <p align="center">
 
 <a href="mailto:YOUR_EMAIL">
-	<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-	<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/mohamedredaou">
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="https://discord.com/users/YOUR_ID">
-	<img src="https://skillicons.dev/icons?i=discord"/>
+  <img src="https://skillicons.dev/icons?i=discord" />
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR_USERNAME">
-	<img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </p>
@@ -144,6 +286,9 @@ Building AI products that solve real-world problems.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedredaou&style=for-the-badge">
-  <br>
+  <strong>AI Engineering × Software Engineering × UI/UX × Marketing</strong>
+</p>
+
+<p align="center">
+  <i>Turning ideas into useful digital products.</i>
 </p>
