@@ -118,37 +118,37 @@ DevOps
 ### 🐍 Languages & Runtime
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,bun,bash" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,bun,bash&theme=dark" />
 </p>
 
 ### 🎨 Frontend & UI
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
 </p>
 
 ### 🤖 AI & Machine Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
 </p>
 
 ### 🚀 Backend & Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,supabase" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,supabase&theme=dark" />
 </p>
 
 ### 🛠 Development & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,npm,vercel,vim,vscode,powershell" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,npm,vercel,vim,vscode,powershell&theme=dark" />
 </p>
 
 ### 🎨 Design & Creative Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,blender" />
+  <img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" />
 </p>
 
 ---
@@ -265,20 +265,16 @@ I believe the strongest products come from combining **good engineering, good de
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+<a href="mailto:ouyoussefmohamedreda2@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
 </a>
 
 <a href="https://github.com/mohamedredaou">
-  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" />
 </a>
 
-<a href="https://discord.com/users/YOUR_ID">
-  <img src="https://skillicons.dev/icons?i=discord" />
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://x.com/OuyoussefR90480">
+  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
 </a>
 
 </p>
@@ -286,7 +282,7 @@ I believe the strongest products come from combining **good engineering, good de
 ---
 
 <p align="center">
-  <strong>AI Engineering × Software Engineering × UI/UX × Marketing</strong>
+  <strong>AI Engineering • Software Engineering • UI/UX • Marketing</strong>
 </p>
 
 <p align="center">
