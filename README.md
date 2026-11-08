@@ -235,24 +235,6 @@ Rather than focusing on technology alone, I care about whether a product is:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=mohamedredaou&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=mohamedredaou&theme=transparent&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohamedredaou&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-
-</p>
-
----
-
 # 💡 Philosophy
 
 > **Build. Design. Learn. Improve.**
