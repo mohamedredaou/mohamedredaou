@@ -1,12 +1,6 @@
-<h1 align="center">👋 Hey! I'm Muhammed Reda</h1>
-
-<p align="center">
-  <strong>AI Engineer • Software Engineer • UI/UX Designer • Marketer</strong>
-</p>
-
-<p align="center">
-  Building useful digital products through engineering, design, and growth.
-</p>
+<div align="center">
+  <img src="./assets/banner.jpg" width="100%" alt="Muhammed Reda Banner">
+</div>
 
 <p align="center">
   <a href="https://github.com/mohamedredaou">
@@ -98,123 +92,23 @@ DevOps
 
 ---
 
-# 🧩 Additional Skills
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AI%20SaaS-111827?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Graphic%20Design-111827?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Video%20Editing-111827?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
-<img src="https://img.shields.io/badge/French-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/English-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Arabic-111827?style=for-the-badge"/>
-
-</p>
-
----
-
 # ⚡ Technologies
 
-### 🐍 Languages & Runtime
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,bun,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=py&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=supabase&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark"/>
 </p>
 
-### 🎨 Frontend & UI
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-</p>
-
-### 🚀 Backend & Data
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,supabase&theme=dark" />
-</p>
-
-### 🛠 Development & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,npm,vercel,vim,vscode,powershell&theme=dark" />
-</p>
-
-### 🎨 Design & Creative Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" />
-</p>
-
----
-
-# 🧠 What I Do
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Product & Design
-
-* UI design
-* UX thinking
-* Design systems
-* Product interfaces
-* Visual design
-* Branding concepts
-* User-centered product decisions
-
-</td>
-
-<td width="50%" valign="top">
-
-### Engineering
-
-* AI-powered applications
-* Full-stack development
-* Backend architecture
-* REST APIs
-* Database design
-* Automation
-* Scalable software systems
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Marketing & Growth
-
-* Product positioning
-* Audience understanding
-* Content ideas
-* Product presentation
-* Growth experiments
-* Brand communication
-
-</td>
-
-<td width="50%" valign="top">
-
-### Creative
-
-* Graphic design
-* Video editing
-* Visual content
-* Product presentation
-* Digital media
-
-</td>
-</tr>
-</table>
-
----
 
 # 🚀 Building
 
@@ -250,13 +144,17 @@ I believe the strongest products come from combining **good engineering, good de
 <a href="mailto:ouyoussefmohamedreda2@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
 </a>
-
 <a href="https://github.com/mohamedredaou">
   <img src="https://skillicons.dev/icons?i=github&theme=dark" />
 </a>
-
 <a href="https://x.com/OuyoussefR90480">
   <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
+</a>
+<a href="https://www.linkedin.com/in/mohamed-reda-ouyoussef-7977023b6">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+</a>
+<a href="https://www.instagram.com/mohamed.redax">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
 </a>
 
 </p>
