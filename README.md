@@ -2,14 +2,6 @@
   <img src="./assets/banner.jpg" width="100%" alt="Muhammed Reda Banner">
 </div>
 
-<p align="center">
-  <a href="https://github.com/mohamedredaou">
-    <img src="https://komarev.com/ghpvc/?username=mohamedredaou&style=for-the-badge" alt="Profile Views"/>
-  </a>
-</p>
-
----
-
 # 👨‍💻 About Me
 
 I'm a developer and digital product builder from Morocco interested in the intersection of **technology, design, and business**.
