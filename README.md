@@ -6,19 +6,15 @@
 
 I'm a developer and digital product builder from Morocco interested in the intersection of **technology, design, and business**.
 
-My work is mainly focused on four areas:
+My work is mainly focused on 2 areas:
 
-* 🎨 **UI/UX Design** — designing clean, modern, and intuitive interfaces
-* 📈 **Marketing** — understanding products, positioning, content, audience, and growth
 * 🤖 **AI Engineering** — building AI-powered systems and integrating modern AI technologies
 * 💻 **Software Engineering** — developing reliable, scalable, and maintainable applications
 
 I also work with:
 
-* 🚀 AI SaaS & product development
-* 🖌️ Graphic Design
-* 🎬 Video Editing
-* 🌍 French • English • Arabic
+* 🎨 **UI/UX Design** — designing clean, modern, and intuitive interfaces
+* 📈 **Marketing** — understanding products, positioning, content, audience, and growth
 
 I enjoy taking an idea from **concept → design → development → launch → improvement**.
 
